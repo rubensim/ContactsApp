@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_card_view">12dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="dialog_padding">24dp</dimen>
+    <dimen name="card_view_corner_radius">2dp</dimen>
+    <dimen name="two_line_list_main_icon_dimens">40dp</dimen>
+</resources>

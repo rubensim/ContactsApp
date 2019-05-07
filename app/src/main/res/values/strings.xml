@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="you_have_no_contacts">You have no contacts to be shown. Please add one and come back again.</string>
+    <string name="enable_contacts_permissions">We kindly ask you to go to the settings of the application and enable the permission Contacts to see all contacts here.</string>
+    <string name="allow_contact_permissions">Please allow access to Contacts to see all contacts here.</string>
+    <string name="allow_call_phone_permissions">Please allow access to Phone permission from settings to make a call.</string>
+
+    <string name="change_contact_name">Edit Contact</string>
+    <string name="add_phone_number">Add Phone Number</string>
+    <string name="add_email">Add Email</string>
+
+</resources>

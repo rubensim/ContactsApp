@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="information_placeholder_txt" type="id" />
+    <item name="progress_bar_container" type="id" />
+    <item name="contacts_recycler_view" type="id" />
+    <item name="contact_list_item_name_txt" type="id" />
+    <item name="contact_list_item_number_txt" type="id" />
+    <item name="contact_list_item_profile_image_view" type="id" />
+    <item name="contact_list_item_call_image_view" type="id" />
+
+    <item name="contact_details_owner_name_with_edit_container" type="id" />
+    <item name="contact_details_owner_name_txt" type="id" />
+
+    <item name="expandable_head_views_container" type="id" />
+    <item name="expandable_body_views_container" type="id" />
+    <item name="expandable_phone_card_view" type="id" />
+    <item name="expandable_email_card_view" type="id" />
+    <item name="expandable_card_view_child_body_message_image_view" type="id" />
+    <item name="expandable_card_view_child_body_email_txt" type="id" />
+
+    <item name="text_view" type="id" />
+    <item name="image_view" type="id" />
+    <item name="edit_text" type="id" />
+
+</resources>

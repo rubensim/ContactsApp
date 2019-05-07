@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <include layout="@layout/divider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@id/expandable_card_view_child_body_email_txt"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/padding_normal"
+            android:layout_marginLeft="@dimen/padding_normal"
+            android:layout_marginTop="@dimen/padding_normal"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:alpha="0.54"
+            android:padding="@dimen/padding_normal"
+            android:src="@drawable/baseline_mail_black_24" />
+    </LinearLayout>
+</LinearLayout>
